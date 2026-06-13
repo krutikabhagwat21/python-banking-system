@@ -1,8 +1,6 @@
 # python-banking-system
-a console-based banking management system build using python
-# Python Banking System
-
-A console-based Banking Management System developed using Python.
+a console-based banking management 
+ System developed using Python.
 
 ## Features
 
